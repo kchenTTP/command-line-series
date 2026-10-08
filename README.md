@@ -16,6 +16,6 @@ A series of tutorials that will teach you everything you need to know about the 
 
 ## Specialized
 
-1. [Introduction to Git & Github]()
+1. [Introduction to Git]()
 2. [Networking from the Command Line]()
 
